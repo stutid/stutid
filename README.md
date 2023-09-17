@@ -1,4 +1,4 @@
-<h1 align="center">Hello, there! 👋 I'm Stuti</h1>
+<h1 align="center">Hello, there! 👋 I'm Stuti 👩🏻‍🔬</h1>
 <h3 align="center">A passionate iOS and Flutter Engineer </h3>
 
 

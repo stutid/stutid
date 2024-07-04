@@ -1,8 +1,8 @@
 <h1 align="center">Hello, there! 👋 I'm Stuti 👩🏻‍🔬</h1>
-<h3 align="center">A passionate iOS and Flutter Engineer </h3>
+<h3 align="center">A passionate Mobile Engineer </h3>
 
 
-- 🏠 Originally from the vibrant tech landscape of India 🇮🇳, I have been fortunate to call Germany 🇩🇪 my second home since the past few years.
+- 🏠 Originally from the vibrant tech landscape of India 🇮🇳, I have been fortunate to call Germany 🇩🇪 my second home.
 
 - 📱 My journey in the mobile development world began with a fascination for the iOS platform, where I honed my skills in creating user-friendly and engaging mobile applications.
   
